@@ -1,0 +1,16 @@
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\bin\Debug\net7.0-windows\TemperatureConversionProgram.exe
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\bin\Debug\net7.0-windows\TemperatureConversionProgram.deps.json
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\bin\Debug\net7.0-windows\TemperatureConversionProgram.runtimeconfig.json
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\bin\Debug\net7.0-windows\TemperatureConversionProgram.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\bin\Debug\net7.0-windows\TemperatureConversionProgram.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.Form1.resources
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.csproj.GenerateResource.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.AssemblyInfoInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.AssemblyInfo.cs
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.csproj.CoreCompileInputs.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\refint\TemperatureConversionProgram.dll
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.pdb
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\TemperatureConversionProgram.genruntimeconfig.cache
+D:\C#\my program\Test\day 01\WindowsFromApp\TemperatureConversionProgram\TemperatureConversionProgram\obj\Debug\net7.0-windows\ref\TemperatureConversionProgram.dll
